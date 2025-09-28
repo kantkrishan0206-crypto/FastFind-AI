@@ -1,0 +1,53 @@
+fasttext-autocomplete/
+│
+├── frontend/                  # Frontend (React + JS + CSS)
+│   ├── public/
+│   │   └── index.html
+│   └── src/
+│       ├── components/
+│       │   ├── SearchBar.js
+│       │   └── Suggestions.js
+│       ├── App.js
+│       ├── index.js
+│       └── styles.css
+│
+├── backend/                   # Backend (Python Flask)
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── routes/
+│   │   └── search_routes.py
+│   ├── models/
+│   │   └── trie.py
+│   └── utils/
+│       └── ml_model.py
+│
+├── database/                  # Database setup scripts
+│   ├── sql/
+│   │   └── schema.sql
+│   └── nosql/
+│       └── trie_seed.json
+│
+├── ai_models/                 # AI / ML / DL / LLM models
+│   ├── ml_model.pkl
+│   ├── dl_model.pt
+│   └── llm_agent.py
+│
+├── devops/                    # Docker, CI/CD, Kubernetes
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│   ├── k8s/
+│   │   ├── deployment.yaml
+│   │   └── service.yaml
+│   └── ci_cd/
+│       └── github_actions.yml
+│
+├── security/                  # Auth and security
+│   ├── auth.py                # JWT, OAuth2
+│   └── rate_limit.py
+│
+├── docs/
+│   ├── architecture.md
+│   ├── roadmap.md
+│   └── README_TEMPLATE.md
+│
+└── README.md
