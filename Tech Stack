@@ -1,0 +1,15 @@
+## Tech Stack
+
+
+| Layer     | Technology                                                        |
+| --------- | ----------------------------------------------------------------- |
+| Frontend  | JavaScript, React/Vue, HTML5, CSS3, Tailwind/Bootstrap            |
+| Backend   | Python (Flask/FastAPI), Node.js, Java (Spring Boot)               |
+| Database  | PostgreSQL/MySQL, MongoDB, Redis                                  |
+| API       | RESTful, GraphQL                                                  |
+| Auth      | JWT, OAuth2, RBAC                                                 |
+| AI/ML/DL  | scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers       |
+| Cloud     | AWS/GCP/Azure                                                     |
+| DevOps    | Docker, Kubernetes, CI/CD, Git                                    |
+| Messaging | RabbitMQ, Kafka                                                   |
+| Security  | HTTPS/TLS, input validation, rate limiting, secure key management |
