@@ -1,17 +1,11 @@
-# Features
-
+Features
 🔍 Fast Autocomplete: Predicts search queries as the user types using a Trie data structure for O(k) prefix lookup.
-
 ⚡ Efficient Prefix Matching: Optimized to handle millions of entries without slowing down.
-
 🤖 AI & ML Integration: Optional integration with Machine Learning, Deep Learning, or LLMs for smarter suggestions.
 
 🌐 Full-Stack Application:
-
 Backend: Python + Flask
-
 Frontend: JavaScript, HTML, CSS
-
 🧠 AI Agents: Suggest context-aware completions and assist user queries.
 
 📊 Scalable & Extensible: Expandable to handle large datasets and enterprise-grade applications.
